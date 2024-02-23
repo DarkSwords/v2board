@@ -1,5 +1,5 @@
 # Use a base image with CentOS
-FROM centos:latest
+FROM ubuntu:latest
 
 # Set environment variables
 ENV SETUP_PATH /www
